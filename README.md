@@ -1,4 +1,3 @@
-# Ejercicios-POO
 # Trabajos Prácticos - Programación Orientada a Objetos
 
 Este repositorio contiene los 24 ejercicios prácticos correspondientes a la materia **Programación Orientada a Objetos**, desarrollados en C++ con Qt.
@@ -40,3 +39,7 @@ Cada carpeta corresponde a un ejercicio independiente y contiene:
 3. Compilar y ejecutar
 
 > Requiere tener instalado Qt Creator y Qt Framework (mínimo Qt 5.15 o superior)
+
+## 📧 Envío
+
+Enviar el enlace a este repositorio a: **cesarosimani@gmail.com**
